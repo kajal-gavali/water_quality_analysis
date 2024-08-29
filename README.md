@@ -1,4 +1,4 @@
-#Water Quality Analysis using Machine Learning Techniques
+# Water Quality Analysis using Machine Learning Techniques
 
 In this study, water quality was categorised into three categories 0, 1 and 2. Here, 0 means
 water can be used for drinking, agriculture and industrial purposes.1 means water can be utilized
